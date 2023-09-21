@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @dfef22
 - 👀 I’m interested in gamefi
 - 🌱 I’m currently learning web3
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on Didi app.
 - 📫 How to reach me 🛳️,send mail to me plz
 
 <!---
